@@ -18,7 +18,7 @@ Product listing by category
 
 Product detail view
 
-Add to cart (optional: if implemented)
+
 
 🧭 Navigation
 
